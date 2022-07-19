@@ -1,9 +1,0 @@
-@import "../root.css";
-
-.posts{
-    flex: 9;
-    display: flex;
-    /* automatically push flex item downward when space is small */
-    flex-wrap: wrap;
-    margin: 10px
-}
