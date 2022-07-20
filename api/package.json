@@ -20,8 +20,5 @@
   },
   "author": "Enoch Kwateh Dongbo",
   "license": "ISC",
-  "description": "",
-  "engines":{
-    "node": "18.4.0"
-  }
+  "description": ""
 }
